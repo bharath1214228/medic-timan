@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.casethemes.net	TRUE	/timan/	FALSE	1999999999	ppwp_wp_session	ed2df9e0873b4e71ae7f538082a20a15%7C%7C1666875264%7C%7C1666874904
+demo.casethemes.net	TRUE	/	FALSE	1999999999	PHPSESSID	276dbbaf9cc8e6659f1f50f916f3edb5
+
